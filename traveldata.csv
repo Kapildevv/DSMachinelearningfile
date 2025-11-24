@@ -1,0 +1,51 @@
+Booking_ID,City,Travel_Mode,Booking_Date,Customer_Type,Tickets_Booked,Ticket_Price,Discount_Amount,Service_Fee,GST_Amount,Payment_Method,Customer_Rating,Total_Revenue
+BK1000,Pune,Bus,01-Jan-24,New,3,3193,510,178,323,Net Banking,1.6,9570
+BK1001,Hyderabad,Train,02-Jan-24,Returning,3,4127,751,97,423,UPI,4.9,12150
+BK1002,Chennai,Bus,03-Jan-24,Returning,1,1863,143,189,403,Wallet,4.4,2312
+BK1003,Pune,Cab,04-Jan-24,Returning,3,2481,608,246,411,Wallet,4.4,7492
+BK1004,Bangalore,Bus,05-Jan-24,Returning,5,2163,200,86,154,UPI,2,10855
+BK1005,Kolkata,Flight,06-Jan-24,New,3,2033,586,168,478,Wallet,1.5,6629
+BK1006,Bangalore,Train,07-Jan-24,New,3,1866,117,96,130,Wallet,1.9,5887
+BK1007,Bangalore,Train,08-Jan-24,New,1,2765,858,275,108,Wallet,3.3,2290
+BK1008,Mumbai,Flight,09-Jan-24,New,4,4475,521,65,159,Credit Card,4.2,18003
+BK1009,Mumbai,Flight,10-Jan-24,Returning,3,4923,301,154,283,UPI,2.1,15045
+BK1010,Kolkata,Train,11-Jan-24,New,4,1980,805,151,168,Net Banking,1.3,6354
+BK1011,Delhi,Cab,12-Jan-24,Returning,4,2343,970,251,353,UPI,4.5,8676
+BK1012,Pune,Cab,13-Jan-24,New,3,2851,755,67,336,Wallet,4.8,8481
+BK1013,Pune,Bus,14-Jan-24,New,3,3291,798,195,316,Wallet,4.3,9916
+BK1014,Delhi,Flight,15-Jan-24,New,4,4442,362,266,283,Net Banking,3.7,17995
+BK1015,Pune,Bus,16-Jan-24,New,5,3941,340,161,492,Wallet,1.1,20117
+BK1016,Ahmedabad,Flight,17-Jan-24,Returning,1,4878,697,80,392,UPI,1.1,4653
+BK1017,Pune,Flight,18-Jan-24,New,3,3448,670,218,183,Wallet,3,11055
+BK1018,Delhi,Flight,19-Jan-24,Returning,2,4054,582,256,473,UPI,4.7,8728
+BK1019,Chennai,Cab,20-Jan-24,New,4,2343,940,217,87,Credit Card,4.3,8406
+BK1020,Ahmedabad,Train,21-Jan-24,Returning,4,2005,585,78,446,Wallet,4.3,7741
+BK1021,Delhi,Bus,22-Jan-24,Returning,5,2798,891,149,75,UPI,4.4,12723
+BK1022,Bangalore,Flight,23-Jan-24,New,3,3505,983,258,196,Credit Card,4,10886
+BK1023,Ahmedabad,Cab,24-Jan-24,Returning,3,1895,763,222,157,Wallet,4.7,6019
+BK1024,Delhi,Train,25-Jan-24,New,5,2854,564,244,200,Net Banking,4.1,14006
+BK1025,Mumbai,Cab,26-Jan-24,Returning,4,2897,463,185,154,Wallet,1.9,11423
+BK1026,Bangalore,Cab,27-Jan-24,New,5,3676,342,225,308,UPI,4.6,19091
+BK1027,Pune,Flight,28-Jan-24,Returning,5,3316,946,81,470,Credit Card,3.6,16985
+BK1028,Ahmedabad,Flight,29-Jan-24,Returning,1,4733,605,101,412,Net Banking,1.7,4641
+BK1029,Kolkata,Flight,30-Jan-24,Returning,2,4126,781,254,386,UPI,2.1,9111
+BK1030,Bangalore,Bus,31-Jan-24,New,3,2054,823,56,282,Wallet,2.2,6111
+BK1031,Mumbai,Cab,01-Feb-24,New,4,3828,883,228,395,Credit Card,3.3,15522
+BK1032,Bangalore,Train,02-Feb-24,Returning,1,2781,148,176,101,UPI,4,2910
+BK1033,Pune,Flight,03-Feb-24,New,5,4434,932,60,232,Wallet,1.7,20810
+BK1034,Kolkata,Flight,04-Feb-24,Returning,3,4304,373,83,309,Net Banking,2.4,13239
+BK1035,Pune,Flight,05-Feb-24,Returning,3,3140,281,83,210,Wallet,4.3,10332
+BK1036,Delhi,Flight,06-Feb-24,New,3,2540,696,237,476,Wallet,1.5,10041
+BK1037,Bangalore,Flight,07-Feb-24,Returning,3,3028,802,64,312,Credit Card,3.2,9826
+BK1038,Ahmedabad,Bus,08-Feb-24,New,5,2278,430,280,154,Net Banking,4.9,12024
+BK1039,Chennai,Flight,09-Feb-24,New,5,4406,521,184,150,UPI,3.1,20643
+BK1040,Chennai,Cab,10-Feb-24,Returning,5,3427,579,271,377,Net Banking,2.2,17404
+BK1041,Delhi,Bus,11-Feb-24,New,2,2158,675,126,221,Wallet,1.1,4089
+BK1042,Chennai,Cab,12-Feb-24,New,4,2296,308,276,325,Wallet,2.6,9845
+BK1043,Ahmedabad,Train,13-Feb-24,Returning,4,4960,934,207,246,UPI,3.6,20129
+BK1044,Ahmedabad,Train,14-Feb-24,New,2,2815,892,137,368,UPI,1.5,5411
+BK1045,Mumbai,Bus,15-Feb-24,Returning,5,2498,628,75,107,Credit Card,1.5,12504
+BK1046,Delhi,Train,16-Feb-24,New,2,3841,805,273,128,Wallet,2.3,7580
+BK1047,Mumbai,Flight,17-Feb-24,New,4,3978,747,78,251,Net Banking,4.2,15384
+BK1048,Chennai,Train,18-Feb-24,New,3,4060,679,203,222,Wallet,2.1,12126
+BK1049,Bangalore,Train,19-Feb-24,Returning,4,4962,923,188,173,Wallet,2.8,20136
